@@ -1,0 +1,5 @@
+	THEESE BUGS CANNOT BE FIXED NOR DO THEY EFFECT THE WAY THE SITE WORKS DO NOT ATTEMPT TO FIX THESE BUGS JUST SET THE ERROR DIPLAY LEVEL DOWN BEFORE RELEASING THE SITE.
+
+Notice: Undefined index: continue in c:\program files\easyphp1-7\www\fight.php on line 18
+Notice: Undefined index: search in c:\program files\easyphp1-7\www\search.php on line 36
+Notice: Undefined index: by in c:\program files\easyphp1-7\www\search.php on line 37 

@@ -1,0 +1,39 @@
+BODY 
+{
+background: #330000;
+scrollbar-face-color: #410000;
+scrollbar-arrow-color: #999999;
+scrollbar-base-color: #410000;
+scrollbar-shadow-color: #410000;
+scrollbar-dark-shadow-color: #410000;
+scrollbar-highlight-color: #999999;
+scrollbar-3d-light-color: #330000;
+font-family:Times New Roman, Times, serif
+font-size: 12px;
+margin-top: 0px;
+margin-left: 0px;
+}
+SELECT
+{
+face-color: #410000;
+arrow-color: #FFaa33;
+}
+.date{ font-family:Old English Text MT; font-size: 16px;color: #FCFCFC; border: 1 solid #ffffff; }
+
+.marquee{ font-family:Times New Roman, Times, serif; font-size: 16px; color: #FFFFFF; border: 0 }
+
+.text{font-family:Times New Roman, Times, serif; font-size: 12px; color: #FFFFFF; border: 0 }
+
+.maptext{font-family:Times New Roman, Times, serif; font-size: 11px; color: #000000; border: 0 }
+
+.text2  { font-family:Times New Roman, Times, serif; font-size: 12px;color: #FFFFFF; border: 0 solid #410000;}
+
+.yeoldtext   { font-family:Old English Text MT; font-size: 14px;color: #FFFFFF; border: 0 solid #410000;}
+
+.yeoldtextlarge   { font-family:Old English Text MT; font-size: 32px;color: #FFFFFF; border: 0 solid #410000;}
+
+.inputs {font-family:Old English Text MT; font-size: 13px;color: #330000;border: 1 solid #330000;background: #FFaa33;}
+
+A{COLOR: FFaa33; TEXT-DECORATION: none }
+
+A:hover { color: #ffffff; background: 880000; TEXT-DECORATION: none }

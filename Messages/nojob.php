@@ -1,0 +1,3 @@
+You do not have a job it is highly suggested that you get one as soon as possible income is very important, the little amount you start off with sometimes can't even buy you basic weapons, and armour. This is because of the always increasing inflation on items, weapons, and other materials used to improve your characters life.
+<br><br>
+If you work daily for a <b>Fork</b>night you will receive a bonus of 1 Gem. 
