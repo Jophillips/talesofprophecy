@@ -1,9 +1,9 @@
 <?php
 
-require('generic_preloggin.php');
+	require('generic_preloggin.php');
 
-echo "hi";
+	echo "hi";
 
-require('side_noad.php');
+	require('side_noad.php');
 
 ?>

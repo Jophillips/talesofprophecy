@@ -1,13 +1,8 @@
 <?php
-require('connection.php');
-
-
-require('generic.php');
-
-
-
-echo " <table><tr><td><font class='text'>
-'Some rocks some rocks! Hey man jaws was never my scene and I don’t like starwars!... woah what happened? You were saying what is in these rocks?'<br>
+	require('connection.php');
+	require('generic.php');
+	echo " <table><tr><td><font class='text'>
+'Some rocks some rocks! Hey man jaws was never my scene and I donÃ¢ï¿½ï¿½t like starwars!... woah what happened? You were saying what is in these rocks?'<br>
 <center>
 <a href='abox.php'>A box</a><br>
 <a href='afox.php'>A fox</a><br>
@@ -21,7 +16,5 @@ Or......<br>
 </tr>
 </table>
 ";
-
-
-require('closing_tags.php');
-?>
+	require('closing_tags.php');
+	?>

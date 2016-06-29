@@ -1,11 +1,11 @@
 <?php
-require('connection.php');
+	require('connection.php');
 
 
-require('generic.php');
+	require('generic.php');
 
-echo " ";
+	echo " ";
 
 
-require('closing_tags.php');
+	require('closing_tags.php');
 ?>
